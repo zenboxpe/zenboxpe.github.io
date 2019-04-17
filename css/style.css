@@ -1,0 +1,12 @@
+.body{
+    background-image: url(img/background.jpg);
+}
+#sidebar{
+	background-color: #91FFFF;
+	float: left;
+	width: 150px;
+}
+#main{
+	height: 200px;
+	margin-left: 170px; /* 150px (ширина сайдбара) + 10px + 10px (2 отступа) */
+}
