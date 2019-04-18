@@ -1,5 +1,5 @@
-.body{
-    background-image: url(img/background.jpg);
+#content{
+    background: url(bg.jpg);
 }
 #sidebar{
 	background-color: #91FFFF;
